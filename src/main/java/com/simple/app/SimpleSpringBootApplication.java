@@ -1,5 +1,5 @@
 package com.simple.app;
 
-public SimpleSpringBootApplication {
+public class SimpleSpringBootApplication {
 
 }
